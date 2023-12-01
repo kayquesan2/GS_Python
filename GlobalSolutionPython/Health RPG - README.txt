@@ -2,9 +2,12 @@ Health RPG - README
 
 Introdução
 
-Bem-vindo ao Health RPG, um jogo simples desenvolvido em Python para conscientizar sobre o combate e a prevenção de doenças . Neste protótipo,
-você enfrentará o Corona Vírus, utilizando itens como Máscara, Álcool em gel e até mesmo a controversa Cloroquina para
- derrotar a ameaça invisível. O destino da cidade está em suas mãos!
+Bem-vindo ao Health RPG! O propósito do Health RPG é educar e conscientizar crianças acerca do combate e prevenção de doenças de forma lúdica e descontraída, colaborando para
+o fim da desinformação veiculada das tratativas e normas da saúde. O jogo é uma inovadora solução de entretenimento educativo que se alinha perfeitamente com valores de saúde e bem estar da empresa, sendo esta uma excelente oportunidade de associação da Notredame a uma iniciativa de contribuição para a promoção do bem-estar em um formato acessível e atraente. 
+
+Neste protótipo, você enfrentará o Corona Vírus, utilizando itens como Máscara, Álcool em gel e até mesmo a controversa Cloroquina para derrotar a ameaça invisível.
+O destino da cidade está em suas mãos!
+
 
 Instruções de Uso
 
