@@ -33,3 +33,7 @@ O jogo fornece informações básicas sobre a COVID-19, seus sintomas e métodos
 
 Notas
 Este é um projeto educacional e simplificado, não refletindo a realidade científica.
+
+
+LINK DO VIDEO:
+https://youtu.be/h8HASZ2dDNM 
