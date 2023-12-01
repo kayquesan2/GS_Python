@@ -23,6 +23,7 @@ Este jogo foi desenvolvido como parte de um projeto educacional. Os desenvolvedo
 Kayque Ferreira dos Santos - RM: 552605
 Marco Aurélio Morais Ennes - RM: 553201
 André Alves da Silva - RM: 552639
+
 Regras do Jogo
 
 Seu objetivo é derrotar o Corona Vírus enquanto gerencia sua própria vida.
@@ -32,6 +33,7 @@ Cuidado com a Cloroquina!
 O jogo fornece informações básicas sobre a COVID-19, seus sintomas e métodos de transmissão.
 
 Notas
+
 Este é um projeto educacional e simplificado, não refletindo a realidade científica.
 
 
